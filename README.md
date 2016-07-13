@@ -1,2 +1,2 @@
-# SQL-interview-question-1
+# frequently asked SQL-interview-question
 
